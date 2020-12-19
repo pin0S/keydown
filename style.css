@@ -17,12 +17,12 @@
     background-color: #fff;
     box-shadow: -2px 2px 5px 3px #889;
     display: inline-block;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     text-align: center;
     font-size: 20px;
     font-family: 'Helvetica', sans-serif;
-    margin: 0 auto;
+    margin: 30px auto;
     position: relative; 
 }
 
